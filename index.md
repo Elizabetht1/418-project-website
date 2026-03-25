@@ -1,4 +1,4 @@
-# CPU-GPU Cooperative Sequence-to-Graph (S2G) Alignment
+<!-- # CPU-GPU Cooperative Sequence-to-Graph (S2G) Alignment -->
 
 **15-418/618 Spring 2024 Final Project**
 
