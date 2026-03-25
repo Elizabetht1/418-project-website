@@ -1,6 +1,5 @@
 <!-- # CPU-GPU Cooperative Sequence-to-Graph (S2G) Alignment -->
-
-**URL:** [elizabetht1.github.io/418-project-website/proposal](https://elizabetht1.github.io/418-project-website/proposal)
+[PDF Project proposal](https://docs.google.com/document/d/1Z6tSwpX70g-vOBcn3sbAG257njpDDJL0FixXyypOGYM/edit?usp=sharing)
 
 ---
 
@@ -91,7 +90,7 @@ We will evaluate our implementation on two compute platforms.
 
 The RTX 2080 is a fairly outdated GPU model, serving as a defensible representative of an accessible compute resource.
 
-**Pittsburgh Supercomputing Cluster (stretch):** We wish to access the GPU partition of the cluster, enabling us to evaluate on V100 GPUs, a higher-end model than the RTX 2080. V100 GPUs have higher memory bandwidth and size compared to RTX 2080s. Comparing performance on the two clusters will enable us to develop an implementation that scales well in response to increased memory resources.
+**Pittsburgh Supercomputing Cluster:** We wish to access the GPU partition of the cluster, enabling us to evaluate on V100 GPUs, a higher-end model than the RTX 2080. V100 GPUs have higher memory bandwidth and size compared to RTX 2080s. Comparing performance on the two clusters will enable us to develop an implementation that scales well in response to increased memory resources.
 
 ---
 
