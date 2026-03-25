@@ -105,8 +105,8 @@ We will also use external baselines to inform performance targets. Within the li
 GCUPS = (|V| × |Q|) / (t × 10⁹)
 ```
 
-where t is the total time in seconds of aligning a reference graph with |V| total vertices and a read with |Q| bases. Feng & Luo ([doi:10.1145/3472456.3472505](https://dl.acm.org/doi/10.1145/3472456.3472505)) implement a GPU-accelerated aligner on an RTX 2080, achieving >20 GCUPS on a diverse dataset with linear scaling as thread blocks and threads per block increase. We will target the same performance.
-
+where t is the total alignment time in seconds, V is the number of graph vertices, and Q is the total number of read bases. Feng & Luo ([doi:10.1145/3472456.3472505](https://dl.acm.org/doi/10.1145/3472456.3472505)) implement a GPU-accelerated aligner on an RTX 2080, achieving >20 GCUPS on a diverse dataset with linear scaling as thread blocks and threads per block increase. We will target the same performance.
+ 
 Moreover, our algorithm is exact, so we will expect the alignment score outputted by our algorithm to be equivalent to reference CPU-only baselines such as VG.
 
 ### Plan to Achieve
