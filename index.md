@@ -2,7 +2,7 @@
 
 **15-418/618 Spring 2024 Final Project**
 
-**Team:** Samriddhi Bhardwaj, Elizabeth Terveen
+**Team:** Elizabeth T, [Partner Name]
 
 ---
 
