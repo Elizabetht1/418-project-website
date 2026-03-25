@@ -1,4 +1,4 @@
-# CPU-GPU Cooperative Sequence-to-Graph (S2G) Alignment
+<!-- # CPU-GPU Cooperative Sequence-to-Graph (S2G) Alignment -->
 
 **URL:** [elizabetht1.github.io/418-project-website/proposal](https://elizabetht1.github.io/418-project-website/proposal)
 
