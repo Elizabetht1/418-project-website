@@ -1,4 +1,3 @@
-<!-- # CPU-GPU Cooperative Sequence-to-Graph (S2G) Alignment -->
 [PDF Project proposal](https://docs.google.com/document/d/1Z6tSwpX70g-vOBcn3sbAG257njpDDJL0FixXyypOGYM/edit?usp=sharing)
 
 ---
