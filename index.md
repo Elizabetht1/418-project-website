@@ -1,5 +1,5 @@
 <!-- # CPU-GPU Cooperative Sequence-to-Graph (S2G) Alignment -->
-**15-418 Spring 2024 Final Project**
+**15-418 Spring 2026 Final Project**
 
 **Team:** Samriddhi Bhardwaj, Elizabeth Terveen
 
