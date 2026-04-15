@@ -68,6 +68,8 @@ This process required identifying a file format to store pangenome graphs and re
 
 We developed a synthetic set of graphs and reads to debug our sequential aligner and study the impact of graph topology on alignment in a controlled fashion.
 
+<img width="708" height="443" alt="image" src="https://github.com/user-attachments/assets/d025e5e5-4dda-4ac8-9900-3742cf6529fd" />
+
 *Figure 2: Impact of graph topology on sequential runtime.*
 
 As the figure highlights, the maximal sequence length per graph node and read length have the largest impact on sequential runtime. Notably, latency scales linearly with respect to both variables: runtime roughly doubles when either read length or maximal node sequence length doubles. Runtime also scales roughly linearly with the number of nodes in the graph — expected, as more nodes introduce more predecessor iterations per alignment step.
