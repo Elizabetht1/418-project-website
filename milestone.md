@@ -62,6 +62,7 @@ We have performed a literature review and compiled baseline datasets and POA imp
 This process required identifying a file format to store pangenome graphs and reads that is both easy to interpret and widely used. After considering various alternatives, we selected Graphical Fragment Assembly (`.gfa`) and `.vg` for graphs, and `.fasta` for reads.
 
 <img width="1034" height="440" alt="IMG_6212" src="https://github.com/user-attachments/assets/35f74aed-9a4b-4c9f-87b1-3c062ec2728c" />
+
 *Figure 1: Visualization of a pangenome graph constructed from assemblies of 90 individuals of chromosome Y, produced with `vg`.*
 
 ### Graph topology
