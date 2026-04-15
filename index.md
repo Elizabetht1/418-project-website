@@ -8,7 +8,7 @@
 ## Links
 
 - [Project Proposal](proposal)
-<!-- - [Milestone Report](milestone) *(coming soon)* -->
+- [Milestone report](milestone)
 <!-- - [Final Report](report) *(coming soon)* -->
 
 ---
