@@ -9,6 +9,8 @@
 
 - [Project Proposal](proposal)
 - [Milestone report](milestone)
+- [Final Report](report.pdf)
+- [Final Slides](slides.pdf)
 <!-- - [Final Report](report) *(coming soon)* -->
 
 ---
